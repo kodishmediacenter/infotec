@@ -24,9 +24,9 @@
     <provides>video</provides>
   </extension>
  <extension point="xbmc.addon.repository" name="Repositório Infotec-Kodi-Online">
-	<info compressed="false">https://gitlab.com/infoteckodionline/infotec-kodi/-/raw/master/addons.xml</info>
-	<checksum>https://gitlab.com/infoteckodionline/infotec-kodi/-/raw/master/addons.xml.md5</checksum>
-	<datadir zip="true">https://gitlab.com/infoteckodionline/infotec-kodi/-/raw/master/zip/</datadir>
+	<info compressed="false">https://raw.githubusercontent.com/kodishmediacenter/infotec/main/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/kodishmediacenter/infotec/main/addons.xml.md5</checksum>
+	<datadir zip="true">https://raw.githubusercontent.com/kodishmediacenter/infotec/main/install/</datadir>
   </extension>
 
   <extension point="xbmc.addon.metadata">
